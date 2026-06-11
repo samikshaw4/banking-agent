@@ -241,42 +241,5 @@ npm run dev
 
 ---
 
-# Future Improvements
-
-Given additional development time, the following enhancements would be implemented:
-
-### Functionality
-
-* Real dispute ticket creation workflow
-* User authentication and authorization
-* Additional banking intents
-
-### Reliability
-
-* LangGraph checkpointing for conversation persistence
-* Retry and recovery mechanisms
-* Enhanced validation logic
-
-### Observability
-
-* LangSmith tracing and monitoring
-* Structured node-level logging
-* Workflow performance metrics
-
-### Security
-
-* PII masking and redaction
-* Audit logging
-* Secure credential management
-
-### User Experience
-
-* Streaming responses
-* Voice-agent compatibility
-* Improved follow-up questioning
-
-### Safety & Governance
-
-* Policy guardrails
-* Sensitive action verification
+n
 * Compliance-focused escalation workflows
